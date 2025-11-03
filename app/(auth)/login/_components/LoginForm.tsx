@@ -39,7 +39,7 @@ const LoginForm = () => {
         <CardHeader>
           <CardTitle className='text-xl'>Welcome back!</CardTitle>
           <CardDescription>
-            Login with your Github Email Account
+            Login with your Github or Email Account
           </CardDescription>
         </CardHeader>
         <CardContent className='flex flex-col gap-4'>
